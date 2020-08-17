@@ -8,3 +8,4 @@ import sys
 print("os.getcwd:%s",os.getcwd())
 print("file path:%s",os.path.abspath(sys.argv[0]))
 print("hello")
+print("this is news")
